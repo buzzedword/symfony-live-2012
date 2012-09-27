@@ -108,6 +108,14 @@ Considering
 - Graph
 - Plugin
 - Reflection
+- Configuration management
+- Mobile friendly administration
+- HTML5 everywhere
+- Improved multi-linqual support
+- Responsive Mobile-First themes
+- Revamped entity system
+- Block driven, ESI friendly layout
+
 
 ## Collaboration
 Licenses
@@ -124,4 +132,9 @@ Drupal added:
 - Make RouteCollection countable
 - Imrpove route serialization
 - TODO: missing item. Please fill?
+
+
+## What is drupal?
+
+Drupal isn't a framework, isn't a CMS-- it's a (symfony based) platform
 
