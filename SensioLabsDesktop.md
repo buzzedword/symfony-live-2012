@@ -1,4 +1,4 @@
-Speaker: Fabien
+Speaker: Fabien Potencier
 
 # Christmas 1984
 

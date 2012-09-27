@@ -80,4 +80,10 @@ _At this point, the slides are too intensive to take notes, please wait for the 
 - Twig Helpers
 - Customizing the XML root node
 - Serializing an object to a single XML node
-
+- Excluding or Exposing properties
+- Managing object properties, versioning
+- Offering several views of a serialized object
+- Forcing the serializer to call getters & setters
+- Mapping a property to another getter of setter method
+- Customizing the order in which properties are serialized
+- Typing properties for a complete unserialization

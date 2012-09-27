@@ -1,4 +1,4 @@
-Speaker: Fabien
+Speaker: Fabien Potencier
 ### General
 
 - Over 1400 releases per month

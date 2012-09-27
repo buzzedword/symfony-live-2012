@@ -52,4 +52,4 @@ Slides here: http://xavierbriand.github.com/training-solr
 
 ### Autocomplete
 
-Fuck it, just check out http://xavierbriand.github.com/training-solr/#/me
+link: http://xavierbriand.github.com/training-solr/#/me
