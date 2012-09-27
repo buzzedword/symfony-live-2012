@@ -61,4 +61,19 @@ YAML parses as valid PHP array for testing.
 ## Build a config tree
 
 Treebuilder: validates your config files
-Accepts types: ['Array', 'Boolean', 'Scalar']
+
+Accepts types: `['Array', 'Boolean', 'Scalar']`
+
+Tips:
+- Use simple validation, not complex logic
+- You can use custom errors
+  - Provide a good error message if you override.
+
+Arrays:
+- Validation can include prototypes
+
+## Using configuration
+- Configure services vs using container in classes.
+- Configuration needs structure
+- Configuration needs conversion
+- Configuration needs validation
