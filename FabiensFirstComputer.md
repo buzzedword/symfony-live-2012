@@ -7,7 +7,7 @@
 ### First game:
 - GOLF, Amsoft
 - Press SPACE to begin
-  - Oh Fabian. Types "space", since no spacebar. Recieves no feedback. Tries again. No luck.
+  - Oh Fabien. Types "space", since no spacebar. Recieves no feedback. Tries again. No luck.
   - Stumbles upon the "space" key. Instructions AFTER necessary.
 
 ### Takeaways:
