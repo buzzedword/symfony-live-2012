@@ -1,5 +1,7 @@
-Speaker: Xavier Briant
+Speaker: Xavier Briand
 # Symfony2 search engine propelled by Solr
+
+Slides here: http://xavierbriand.github.com/training-solr
 
 - Built on top of Lucene
 - Companies include:
