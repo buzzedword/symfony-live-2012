@@ -1,4 +1,4 @@
-Speaker: Fabian
+Speaker: Fabien
 ### General
 
 - Over 1400 releases per month
