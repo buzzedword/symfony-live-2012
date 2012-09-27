@@ -32,3 +32,32 @@ Can be located like:
 ``` php
 $loader->load('services.xml');
 ```
+
+## Validate
+
+Bundle Extension:
+``` php
+public function load($configs, /*...*/)
+{
+	$config = $this
+		->processConfiguration(/*...*/);
+	if (true === $config['enabled']){
+		// do code here
+	}
+}
+```
+
+TODO: Get full code snippet above.
+
+Config file:
+
+``` yaml
+your_bundle:
+    enabled: true
+```
+
+YAML parses as valid PHP array for testing.
+
+## Build a config tree
+
+Treebuilder: dynamically constructs config with code.
