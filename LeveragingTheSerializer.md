@@ -22,3 +22,31 @@ How it works:
 
 - EncoderInterface encodes data into the given format
 - DecoderInterface decodes a string into PHP data
+
+## Including in symfony
+
+``` php
+use Symfony\Component\Serializer\Serializer;
+use Symfony\Component\Serializer\Normalizer\GerSetMethodNormalizer;
+use Symfony\Component\Serializer\Encoder\JsonEncoder;
+use Symfony\Component\SerializerEncoder\XmlEncoder;
+
+// TODO: Incomplete code
+```
+
+## Using
+
+``` php
+$serializer
+	->serialize($object, 'xml');
+```
+
+``` xml
+<response>
+	<id/>
+	<customer/>
+	<reference><...</reference>
+	<arrival>...</arrival>
+	<!-- ... -->
+</response>
+```
