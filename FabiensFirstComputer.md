@@ -17,9 +17,12 @@
 
 ### Relevance to SF2
 - Still have "space" issues, but working to remove them
+- Make error messages more user friendly
+- Solving a problem the right way usually involves more complexity.
 
-
-
+## HELLO NURSE
+- SensioLabsDesktop announced.
+  - Composer integration.
 
 ## Sidebar
 
