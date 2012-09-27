@@ -8,6 +8,15 @@ First game:
 - GOLF, Amsoft
 - Press SPACE to begin
   - Oh Fabian. Types "space", since no spacebar. Recieves no feedback. Tries again. No luck.
+  - Stumbles upon the "space" key. Instructions AFTER necessary.
+
+Takeaways:
+- More explicit directions, like "press the SPACE bar on the keyboard to begin"
+- We commonly overcomplicate issues for the user
+  - Even the simplest thing to a dev can be difficult to a user
+
+Relevance to SF2
+- Still have "space" issues, but working to remove them
 
 
 ## Sidebar
