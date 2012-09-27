@@ -71,3 +71,13 @@ $class = 'ns'
 
 ## Adding support for YAML
 {image} (not even trying. wait for slides.)
+
+
+
+## Too fast to type, take note:
+_At this point, the slides are too intensive to take notes, please wait for the slides to be published._
+- JMS Serializer Bundle
+- Twig Helpers
+- Customizing the XML root node
+- Serializing an object to a single XML node
+
