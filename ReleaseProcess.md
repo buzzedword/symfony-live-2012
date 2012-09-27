@@ -43,5 +43,5 @@ Support:
 
 ## Symfony 3
 - Must retain backwards compatibility
-- Will never break the components
+- Will never break the core components
 - Released after LTS 2.7
