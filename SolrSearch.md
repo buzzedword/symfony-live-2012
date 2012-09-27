@@ -49,3 +49,5 @@ Speaker: Xavier Briant
 ### Spellchecker
 
 ### Autocomplete
+
+Fuck it, just check out http://xavierbriand.github.com/training-solr/#/me
