@@ -77,3 +77,5 @@ Arrays:
 - Configuration needs structure
 - Configuration needs conversion
 - Configuration needs validation
+
+Slides: http://de.slideshare.net/denderello/what-your-mother-didnt-tell-you-about-bundle-configurations-symfony-live-san-francisco-2012
