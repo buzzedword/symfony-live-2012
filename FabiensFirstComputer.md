@@ -23,6 +23,7 @@
 ## HELLO NURSE
 - SensioLabsDesktop announced.
   - Composer integration.
+  - Available here: http://desktop.sensiolabs.org/
 
 ## Sidebar
 
