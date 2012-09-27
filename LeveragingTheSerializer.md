@@ -50,3 +50,24 @@ $serializer
 	<!-- ... -->
 </response>
 ```
+
+## Ignoring attributes
+
+``` php
+$ignore = array('id', 'customer');
+// TODO: Code incomplete
+```
+
+## Unserialize a string
+``` php
+$xml = '<response>...</response>';
+// Convert an XML string to an array
+$data = $serializer->decode($xml, 'xml');
+
+// Convert the array to an object
+$class = 'ns'
+// TODO: code incomplete
+```
+
+## Adding support for YAML
+{image} (not even trying. wait for slides.)
