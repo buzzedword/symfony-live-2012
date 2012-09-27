@@ -60,4 +60,5 @@ YAML parses as valid PHP array for testing.
 
 ## Build a config tree
 
-Treebuilder: dynamically constructs config with code.
+Treebuilder: validates your config files
+Accepts types: ['Array', 'Boolean', 'Scalar']
