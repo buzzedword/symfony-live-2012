@@ -1,3 +1,5 @@
+Speaker: Fabien
+
 # Christmas 1984
 
 ### First computer:
