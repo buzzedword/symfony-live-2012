@@ -33,3 +33,30 @@ Impressions:
 - Will be pushed upstream to Symfony CMF routing
 
 ## Dependency Injection
+- Drupal has a lot of globals
+  - Migrating to use injection container
+- Currently used to check if global, else use DIC.
+
+## Event dispatcher
+Drupal 7
+
+Benefits
+- Like event dispatcher but uses function_exists() for registration
+- Used for procedural AOP
+- Faster than EventDispatcher
+- No need to compile
+
+Limitations
+- No class autoloading
+- Hard to unit test
+- Only one of each hook per module
+
+Drupal 8
+- Will have both EventDispatcher and Hooks
+- EventDispatcher closer to the core, Hooks further out
+- Refactor hook engine to not be completely global for testing
+
+Drupal 9
+- Just eventDispatcher?
+
+## Twig
