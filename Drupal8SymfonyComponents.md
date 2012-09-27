@@ -60,3 +60,47 @@ Drupal 9
 - Just eventDispatcher?
 
 ## Twig
+Drupal 7
+- PHP as tempalate language
+- Array based rendering, defer rendering until the last possible moment
+- Powerful preprocessing/filtering
+
+Benefits
+- Extremely flexible
+- No need to compile templates
+- On ramp for front-end developers to become PHP developers
+- "All template languages eventually evolve to become Turing Complete"
+
+Drawbacks
+- Extremely opaque
+- Unpredictable
+- Front-end need to become PHP devs
+
+Drupal 8
+- MAYBE
+
+Benefits
+- More secure
+- More front-end developer friendly
+- Twig.js
+- Not drupal-proprietary
+
+Drawbacks
+- Extremely different model makes transition difficult
+
+## Replace NIH with PIE
+"Proudly Invented Elsewhere"
+
+- YAML component for config
+- Doctrine common annotations
+- Partial composer usage
+
+Considering
+- Assetic (meh)
+- Guzzle (HTTP requests)
+- Imagine (image handling)
+
+## Refactors
+- PSR-0
+- Gettext
+- PhpStorage
