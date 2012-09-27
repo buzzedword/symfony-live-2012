@@ -104,3 +104,24 @@ Considering
 - PSR-0
 - Gettext
 - PhpStorage
+- Archiver
+- Graph
+- Plugin
+- Reflection
+
+## Collaboration
+Licenses
+- SF2: MIT
+- Drupal: GPL
+
+Drupal added:
+- New Flash messaging API
+- File Streaming -- 2.2
+- Response::prepare() chaining
+- Improve FlattenException
+- UTF-8 encoding weirdness in JSON
+- Allow routing matching on a full Request
+- Make RouteCollection countable
+- Imrpove route serialization
+- TODO: missing item. Please fill?
+
