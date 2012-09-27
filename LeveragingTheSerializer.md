@@ -11,3 +11,14 @@ How it works:
 - Deserialize, start as a type
   - Pass through as an array
   - Decode to an object
+
+## Normalizer interface
+{images}
+
+- NormalizerInterface normalizes objects to arrays, scalars
+- Denormalizer does the reverse.
+
+## Encoder Interface
+
+- EncoderInterface encodes data into the given format
+- DecoderInterface decodes a string into PHP data
