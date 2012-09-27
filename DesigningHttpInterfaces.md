@@ -3,7 +3,7 @@ Speaker: David Zuelke
 
 - Differences between SOAP and REST
 
-Problems w/API
+Problems w/L0 API
 - Always a POST
 - Doesn't use HTTP auth
 - Operation info is enclosed in the request ("getdetail")
@@ -33,5 +33,44 @@ Architectural styles and the design of network based software architectures
   - Link relations are used to navigate a service
 
 
+## Designing an HTTP Interface
+
+- Define your resources
+
+
+### Good URLS
+- http://www.acme.com/products/
+- http://www.acme.com/products/?filter=cats&sort=desc
+- http://www.acme.com/prdoucts/1234
+- http://www.acme.com/products/1234/pictures/
+- http://www.acme.com/products/1234/photos/?sort=latest
+- http://www.acme.com/products/1234/photos/5678
+
+URLs don't actually matter in a RESTful system, but its helpful to think in terms of
+resources
+
+
+- Use the resources
+
+### Collection operations
+
+- http://www.acme.com/products/
+  - GET to retrieve a list of products
+  - POST to create a new product
+    - returns
+      - 201 created
+      -  Location: http://www.acme.com/products/1235
+
+### Item Opetaions
+
+- http://www.acme.com/products/1234
+  - GET to retrieve
+  - PUT to update
+  - DELETE to delete. Duh.
+
+
 #### Sidebar
-REpresentational State Transfer (just in case you missed that)
+
+- REpresentational State Transfer (just in case you missed that)
+- application/xml and application/json are not hypermedia formats
+
