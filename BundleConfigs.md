@@ -1,3 +1,34 @@
 Speaker: Dennis Benkert
 # What your Mother never told you about Bundle configuration
+- Focus on Validation
 
+
+## Bad Configuration
+Having a bad configuration is worse than bad code in terms of structure. Bad validation
+suffers the same.
+
+Example: "Redirect" has been mispelled in demo key. 301 redirects never made to 302 as defined.
+
+Tools:
+- Config Component
+  - Locate
+  - Load
+  - Validate
+  - Cache (*will not be covered)
+
+## Locate & Load
+
+Works with DIC:
+``` php
+use Symfony\Component\Config\FileLocator;
+$locator = new Loader\XmlFileLoader(
+	$container,
+	new FileLocator('...') // Path for resources
+);
+```
+
+Can be located like:
+
+``` php
+$loader->load('services.xml');
+```
