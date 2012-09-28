@@ -1,5 +1,7 @@
 Speaker: Jordi Boggiano
 
+Slides: http://slides.seld.be/?file=2012-09-14+In-Depth+with+Composer.html#1
+
 # In-Depth with Composer
 
 ## Use cases
@@ -71,6 +73,29 @@ Speaker: Jordi Boggiano
     - post-install-cmd / post-update-cmd scripts fire
       - don't need scripts?
         ``` bash
-        composer install --no-scripts
+        $ composer install --no-scripts
         # default symfony app/console
         ```
+
+### Package not auto-updating?
+
+Validate your config
+``` bash
+$ composer validate
+./composer.json is valid
+```
+
+### Strange behavior
+
+- Update composer
+  - `composer self-update`
+- Check your setup's settings
+  - `curl -s https://getcomposer.org/installer | php -- --check`
+- Update your deps
+  - `composer update -v`
+- Reinstall your deps
+  ``` bash
+  rm -rf vendor/
+  composer update -v
+  ```
+- Report a bug
