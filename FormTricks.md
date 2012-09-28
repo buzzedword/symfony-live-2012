@@ -121,3 +121,28 @@ Example: MyDateType
 ### Data Mapping
 Data mapping is the mapping between a form and its fields
 
+- Symfony\Component\Form\DataaMapperInterface
+  - bijective
+  - mapFormsToData($data, array $forms)
+  - mapDataToForms($forms, array $data)
+
+Implementations
+- In Symfony
+  - PropertyPathMapper
+- Ideas:
+  - DomDocumentMapper
+  - EAVMapper
+
+Example: Terms and Conditions
+
+``` php
+$builder->add('terms', 'checkbox', array(
+	'mapped' => false,
+	'data' => true,
+));
+$form->get('terms')->setData(true);
+// MISSED
+```
+
+### STOP
+Sorry guys, he's going way too fast here. Gotta absorb it myself. Please refer to slides.

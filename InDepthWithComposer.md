@@ -1,6 +1,6 @@
 Speaker: Jordi Boggiano
 
-Slides: http://slides.seld.be/?file=2012-09-14+In-Depth+with+Composer.html#1
+Slides: http://slides.seld.be/?file=2012-09-28+In-Depth+with+Composer.html#1
 
 # In-Depth with Composer
 
