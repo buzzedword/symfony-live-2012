@@ -1,5 +1,7 @@
 Speaker: Bernhard Schussek
 
+Slides: https://speakerdeck.com/u/bschussek/p/symfony-form-tricks
+
 # Symfony2 Form Tricks
 
 Outline

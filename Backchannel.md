@@ -1,4 +1,7 @@
 Curating backchannel info at Symfony Live SF 2012
+# Twitter
+- weaverryan
+  - http://www.php-fig.org/
 
 # IRC
 - jmather
