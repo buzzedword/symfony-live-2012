@@ -1,4 +1,7 @@
 Speaker: Hugo Hamon
+
+Slides: https://speakerdeck.com/u/hhamon/p/leveraging-the-serializer-component
+
 ## Leveraging the Serializer Component
 
 How it works:
