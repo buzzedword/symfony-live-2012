@@ -1,6 +1,6 @@
 Speaker: Jeremy Mikola
 
-Slides:
+Slides: https://speakerdeck.com/u/jmikola/p/being-a-good-oss-contributor
 
 # Being a Good OSS Contributor
 
