@@ -91,10 +91,31 @@ Caveat: NOT the orm, if you need it, use SF2
 - set swift message
 - send message
 
+## Security
+CAVEAT: if you need security, you should be using SF2
+- register security provider
+- add firewall
+  - set patterns
+  - set routes
+- fetch token
+
+
+## What is a full stack framework?
+- default structure
+- default conventions
+- configuration (yml, xml, ini, etc)
+- sf2 you remove features
+- silex you add them
+
+## Scaling Silex for larger apps
+- exposing new functionality w/service providers
+- moving out of a single file
+  - controllers in diff files
+  - template files
+
 
 ## Considerations
 Fabpot skeleton already has twig/silex helpers already registered
-
 
 ## Thoughts
 Seems that Dustin has started with a stock Silex install. Through
