@@ -140,7 +140,11 @@ https://github.com/fate/Silex-Extensions
   - Service Container
   - App
 
-
+## Bootstrap the kitchen sink
+https://github.com/lyrixx/Silex-Kitchen-Edition
+- H5BP + Twitter Bootstrap
+- Providers and examples
+- Twig, cache, security, blah blah blah too fast
 
 ## Considerations
 Fabpot skeleton already has twig/silex helpers already registered
