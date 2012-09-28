@@ -119,3 +119,16 @@ Bug reports
   - Collect background information
   - Create failing test cases
   - Document workarounds
+
+Code Reviews
+- Ensure the test suite passes
+  - Is the current test coverage sufficient?
+  - Avoid arguments with travisbot
+- Object calisthenics (Jeff Bay)(helpful principles, but don't go overboard)
+  - Summary by Ben Nadel-- not official: http://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf
+-Coding standards and conventions
+  - https://github.com/klaussilveira/phpcs-psr
+  - https://github.com/fabpot/PHP-CS-Fixer
+
+#### Teach others to do what we do
+Support is a big part of it
