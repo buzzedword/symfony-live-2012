@@ -52,3 +52,27 @@ Criticism -> reevaluation
   - make friends
 - As companies
   - Sponsor the above
+
+#### Notable mention
+@javiereguiluz
+
+## Documentation
+
+How do we...
+- Get up and running?
+- Learn how to use a project?
+- Get acquainted with a new API?
+
+Documentation comes in:
+- Code
+- API docs
+- Test cases
+- README
+- The Book
+- Cookbooks and tutorials
+- Starter apps and distributions
+
+Great documentation:
+- Consistent writing style
+- Users make the best authors
+- Evolves as the code changes
