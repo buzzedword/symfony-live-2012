@@ -100,6 +100,27 @@ Hyperlinks have no tight coupling.
   - No breaking of clients if the implementation is updated
 
 
+### API Versioning
+- These are different resources.
+  - api.myresource/v1/blah
+  - api.myresource/v2/blah
+- Can't be machine bookmarked.
+- Use hypermedia versioning, not URL
+  - URI based versioning kills interoperability
+
+
+### Merits of REST
+- Easy to evolve
+  - add new features or elements without breaking BC
+-Easy to learn
+  - developers can browse service via link rels
+- easy to scale up
+  - grows well with number of features, users and servers
+- easy to implement
+  - build it on top of HTTP
+
+Quote:
+"Rest is software deisn on the scale of decades:" -- todo: finish quote. Roy Fielding
 
 #### Sidebar
 
@@ -109,3 +130,5 @@ Hyperlinks have no tight coupling.
 - Twitter is not at all RESTful.
 
 - Allow string can include methods allowed. (GET, PUT, UPDATE)
+- JSON is hard to scale
+- XML's document model is built for extensibility
