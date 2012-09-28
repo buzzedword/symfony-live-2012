@@ -68,3 +68,9 @@ Speaker: Jordi Boggiano
       - `composer install`
     - Generating autoloader
       - `composer dump-autoload --optimize`
+    - post-install-cmd / post-update-cmd scripts fire
+      - don't need scripts?
+        ``` bash
+        composer install --no-scripts
+        # default symfony app/console
+        ```
