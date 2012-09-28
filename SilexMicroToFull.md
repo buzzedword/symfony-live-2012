@@ -1,4 +1,5 @@
 Speaker: Dustin Whittle
+
 Slides: https://speakerdeck.com/u/dustinwhittle/p/silex-from-micro-to-full-stack
 
 # Silex: From Micro To Full Stack

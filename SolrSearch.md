@@ -1,4 +1,5 @@
 Speaker: Xavier Briand
+
 Slides: http://xavierbriand.github.com/training-solr
 
 # Symfony2 search engine propelled by Solr

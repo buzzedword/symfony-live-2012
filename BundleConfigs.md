@@ -1,4 +1,5 @@
 Speaker: Dennis Benkert
+
 Slides: http://de.slideshare.net/denderello/what-your-mother-didnt-tell-you-about-bundle-configurations-symfony-live-san-francisco-2012
 
 # What your Mother never told you about Bundle configuration

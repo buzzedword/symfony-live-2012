@@ -1,4 +1,7 @@
 Speaker: Larry Garfield
+
+Slides: http://www.garfieldtech.com/presentations/sfsf2012-drupal8/#1
+
 # Symfony2 meets Drupal 8
 
 ## Track record
