@@ -1,5 +1,6 @@
 Speaker: Dustin Whittle
 # Silex: From Micro To Full Stack
+Slide link: https://speakerdeck.com/u/dustinwhittle/p/silex-from-micro-to-full-stack
 
 #### Note: this is a fast moving talk. Will be fewer notes.
 
@@ -145,6 +146,13 @@ https://github.com/lyrixx/Silex-Kitchen-Edition
 - H5BP + Twitter Bootstrap
 - Providers and examples
 - Twig, cache, security, blah blah blah too fast
+
+Silex Backbone
+- https://github.com/yohang/silex-backbone-todolist
+
+## When silex makes sense?
+- Too fast.
+
 
 ## Considerations
 Fabpot skeleton already has twig/silex helpers already registered
