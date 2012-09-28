@@ -99,4 +99,25 @@ Text: Type a team
 - string
 - array
 
-Use ValueToChoiceOrTextTransformer
+#### Tip
+The normalized data should have as trimmed down text as possible (? refer to slide)
+
+### Case 1: Existing Team Selected
+### Case 2: New Team Created
+
+Check the value of "Other", if set create new team. Else, existing team.
+
+#### Tip
+Data transformers should never change the information stored in a form
+
+Example: MyDateType
+
+[mydate]
+- MyDateTime
+- [string, integer, array, DateTime]
+- DateTime
+- [array, string]
+
+### Data Mapping
+Data mapping is the mapping between a form and its fields
+
