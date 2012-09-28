@@ -1,4 +1,7 @@
 Speaker: Fabien Potencier
+
+Announcement: https://groups.google.com/forum/?hl=en_US&fromgroups=#!topic/symfony-devs/oNaXdV5UGRU
+
 ### General
 
 - Over 1400 releases per month

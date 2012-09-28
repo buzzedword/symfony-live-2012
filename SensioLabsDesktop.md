@@ -1,5 +1,7 @@
 Speaker: Fabien Potencier
 
+Link: http://desktop.sensiolabs.org/
+
 # Christmas 1984
 
 ### First computer:

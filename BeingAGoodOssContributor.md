@@ -108,3 +108,14 @@ The Relentless flow of questions
   - previous discussions
   - relevant documentation
 - Good exchanges deserve visibility
+
+Bug reports
+- Encourage users to report _actual_ issues
+  - handle security vulnerabilities responsibly
+- Triaging saves time
+  - identify duplicate and invalid reports
+  - cross-reference related or upstream issues
+- Fill in the gaps
+  - Collect background information
+  - Create failing test cases
+  - Document workarounds
