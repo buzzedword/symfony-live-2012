@@ -76,3 +76,35 @@ Great documentation:
 - Consistent writing style
 - Users make the best authors
 - Evolves as the code changes
+
+#### Wrong documentation is dangerous
+
+Before you commit:
+- Follow conventions
+  - Formatting
+  - Structure
+  - Writing Style
+- Test your changes
+  - Content: grammar, spelling, links
+  - Syntax: reStructured Text, Markdown, HTML
+  - Build: Sphinx, Docbook
+
+#### Translation opportunities
+
+## Support
+Users expect things to work
+- Some users ask questions
+- Good users file bug reports
+- Awesome users submit patches
+
+Support is:
+- Often a thankless job
+- Necessary for growth
+- Never finished
+
+The Relentless flow of questions
+- Why is the user asking this?
+- Refer to existing content if possible
+  - previous discussions
+  - relevant documentation
+- Good exchanges deserve visibility
