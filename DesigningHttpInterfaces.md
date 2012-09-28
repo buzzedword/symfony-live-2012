@@ -1,4 +1,7 @@
 Speaker: David Zuelke
+Video: ["https://vimeo.com/29610634", "http://blip.tv/drupalcon/designing-http-interfaces-and-restful-web-services-6318689"]
+Slides: https://speakerdeck.com/u/dzuelke/p/designing-http-interfaces-and-restful-web-services-sfliveparis2012-2012-06-08
+
 # Designing HTTP Interfaces and RESTful Web Services
 
 - Differences between SOAP and REST

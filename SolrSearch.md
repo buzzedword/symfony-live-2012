@@ -1,7 +1,7 @@
 Speaker: Xavier Briand
-# Symfony2 search engine propelled by Solr
+Slides: http://xavierbriand.github.com/training-solr
 
-Slides here: http://xavierbriand.github.com/training-solr
+# Symfony2 search engine propelled by Solr
 
 - Built on top of Lucene
 - Companies include:
