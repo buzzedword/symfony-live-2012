@@ -53,9 +53,6 @@ Criticism -> reevaluation
 - As companies
   - Sponsor the above
 
-#### Notable mention
-@javiereguiluz
-
 ## Documentation
 
 How do we...
@@ -132,3 +129,27 @@ Code Reviews
 
 #### Teach others to do what we do
 Support is a big part of it
+
+## Development
+
+Taking the first step
+- How many OSS projects started because of a tangible need for some basic functionality?
+- How many core developers got their stary by fixing a small bug?
+
+Reconnaissance
+- Start with bug fixes or small tasks.
+- Collect feedback prior to major contributions
+- Join developer chats and roadmap discussion
+
+Be a humble contributor
+- Who are you implementing this for?
+- Review your own work before you expect someone else to.
+- Don't turn code reviews into religious debates
+
+#### There are no small contributors, just small changesets.
+
+#### Don't create borders where there are none.
+
+### Notable mention
+- @javiereguiluz
+- @pborreli
