@@ -36,6 +36,66 @@ Core providers
 - validator
 - TODO: more listed
 
+## Twig
+- Register twig
+- Set Path
+
+## Translations
+- Register trans
+- set dictionary
+- access `$app->translator`
+
+## Forms
+- register form service provider
+- create form
+  - uses a form factory service
+  - form builder
+    - add form fields
+  - bind request to form
+  - return form w/view
+
+## Validation
+- register validator
+- register translator
+- specify validation constraints
+- assert constraints
+- proceed as sf2
+
+## Caching
+- register httpcache
+- set cache dir
+- return response object w/cache headers
+
+## Doctrine DBAL
+Caveat: NOT the orm, if you need it, use SF2
+
+- exposes a PDO object
+- register doctrine provider
+- set driver
+- set path
+- execute query
+
+## JSON
+- Silex "sweet spot"
+  - if you need a simple JSON API, "use silex"
+- Already has doctrine set up, just return JSON encoded data
+  - uses routes and request objects to mutate the query
+
+## Monolog
+- register monolog
+- set logfile
+- write to log
+
+## SwiftMailer
+- register swiftmailer
+- set swift message
+- send message
+
+
+## Considerations
+Fabpot skeleton already has twig/silex helpers already registered
+
+
 ## Thoughts
 Seems that Dustin has started with a stock Silex install. Through
 using composer and fabpot's skeleton, he's slowly building up Silex to be
