@@ -113,6 +113,34 @@ CAVEAT: if you need security, you should be using SF2
   - controllers in diff files
   - template files
 
+## Extensions
+CAVEAT: goal is to be lightweight.
+- assetic
+- memcache
+- mongodb
+- redis
+- markdown
+
+https://github.com/fate/Silex-Extensions
+
+## Creating your own provider
+- integrate any third party library easily by adding a service to the container
+  - facebook SDK
+- `$app->share` returns service to the container
+
+## Dep Injection
+- SF2
+  - Compiler
+  - XML/YAML
+  - Loader
+  - Extension
+  - Builder
+  - App
+- Silex
+  - Service Container
+  - App
+
+
 
 ## Considerations
 Fabpot skeleton already has twig/silex helpers already registered
