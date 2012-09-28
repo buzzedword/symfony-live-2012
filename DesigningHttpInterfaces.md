@@ -19,6 +19,8 @@ Plain old XML over the wire in an RPC fashion
   - POST (unsafe, not idempotent)
   - PUT & DELETE (unsafe, idempotent)
   - Use HTTP status codes to indicate result success
+- Level 3
+  - HATEOAS
 
 
 Don't use Level 0 or Level 1
@@ -105,3 +107,5 @@ Hyperlinks have no tight coupling.
 - application/xml and application/json are not hypermedia formats
 - Don't let the server maintain client state (e.g. cookies)
 - Twitter is not at all RESTful.
+
+- Allow string can include methods allowed. (GET, PUT, UPDATE)
