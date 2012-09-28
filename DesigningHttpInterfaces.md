@@ -12,7 +12,14 @@ Problems w/L0 API
 Plain old XML over the wire in an RPC fashion
 
 - Level 0 is not RESTful
-- Level 1 (missed information)
+- Level 1 (RPC)
+- Level 2
+  - Use HTTP verbs
+  - GET (safe and idempotent)
+  - POST (unsafe, not idempotent)
+  - PUT & DELETE (unsafe, idempotent)
+  - Use HTTP status codes to indicate result success
+
 
 Don't use Level 0 or Level 1
 
@@ -69,8 +76,32 @@ resources
   - DELETE to delete. Duh.
 
 
+## WWW
+Hyperlinks have no tight coupling.
+- Loosely coupled by design
+- HTTP 404 embraces failure by design
+  - more information != more friction
+- no limits to scalability
+- www is protocol-centric
+
+
+### RESTful Services with uniform interface
+- Identification of Resources (eg through URIs)
+- Representations are conceptually seperate
+- Manipulation through representations (ie they are complete)
+- HATEOAS
+  - Use links to allow clients to discover locations and operationms
+  - Link relations are used to express the possible options
+  - Clients do not need to know URLs, so they can change
+  - The entire application workflow is abstracted, thus changeable
+  - The hypermedia type itself could be versioned if necessary
+  - No breaking of clients if the implementation is updated
+
+
+
 #### Sidebar
 
 - REpresentational State Transfer (just in case you missed that)
 - application/xml and application/json are not hypermedia formats
-
+- Don't let the server maintain client state (e.g. cookies)
+- Twitter is not at all RESTful.
