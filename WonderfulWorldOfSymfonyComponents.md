@@ -1,5 +1,7 @@
 Speaker: Ryan Weaver
 
+Slides: http://www.slideshare.net/weaverryan/the-wonderful-world-of-symfony-components
+
 # Wonderful World of Symfony Components and Composer
 
 ### Sidebar
