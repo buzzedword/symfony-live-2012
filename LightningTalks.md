@@ -14,7 +14,7 @@ Topic: OAuth
 Speaker: Jacob Mather
 Topic: How to act like you (maybe actually) care about your work
 
-Speaker: ?
+Speaker: Jason Bouffard
 Topic: Goutte
 
 Speaker: Pablo Godel
