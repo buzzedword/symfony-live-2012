@@ -1,4 +1,4 @@
-Speaker: Jeremy Mikola
+Speaker: Jeremy Mikola -- @jmikola https://twitter.com/jmikola
 
 Slides: https://speakerdeck.com/u/jmikola/p/being-a-good-oss-contributor
 

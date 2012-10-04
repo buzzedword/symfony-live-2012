@@ -1,4 +1,4 @@
-Speaker: Jordi Boggiano
+Speaker: Jordi Boggiano -- @seldaek https://twitter.com/seldaek
 
 Slides: http://slides.seld.be/?file=2012-09-28+In-Depth+with+Composer.html#1
 
