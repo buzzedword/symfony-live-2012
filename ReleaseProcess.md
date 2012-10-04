@@ -1,4 +1,4 @@
-Speaker: Fabien Potencier
+Speaker: Fabien Potencier -- @fabpot https://twitter.com/fabpot
 
 Announcement: https://groups.google.com/forum/?hl=en_US&fromgroups=#!topic/symfony-devs/oNaXdV5UGRU
 

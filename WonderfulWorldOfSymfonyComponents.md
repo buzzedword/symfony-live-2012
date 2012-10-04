@@ -1,4 +1,4 @@
-Speaker: Ryan Weaver
+Speaker: Ryan Weaver -- @weaverryan https://twitter.com/weaverryan
 
 Slides: http://www.slideshare.net/weaverryan/the-wonderful-world-of-symfony-components
 

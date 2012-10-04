@@ -1,4 +1,4 @@
-Speaker: Bernhard Schussek
+Speaker: Bernhard Schussek @webmozart https://twitter.com/webmozart
 
 Slides: https://speakerdeck.com/u/bschussek/p/symfony-form-tricks
 
