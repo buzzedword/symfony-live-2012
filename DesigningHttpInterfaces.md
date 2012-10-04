@@ -1,4 +1,4 @@
-Speaker: David Zuelke
+Speaker: David Zuelke @dzuelke https://twitter.com/dzuelke
 
 Video: ["https://vimeo.com/29610634", "http://blip.tv/drupalcon/designing-http-interfaces-and-restful-web-services-6318689"]
 

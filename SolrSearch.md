@@ -1,4 +1,4 @@
-Speaker: Xavier Briand
+Speaker: Xavier Briand -- @xavierbriand https://twitter.com/xavierbriand
 
 Slides: http://xavierbriand.github.com/training-solr
 

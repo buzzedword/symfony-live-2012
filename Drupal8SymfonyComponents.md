@@ -1,4 +1,4 @@
-Speaker: Larry Garfield
+Speaker: Larry Garfield @crell https://twitter.com/crell
 
 Slides: http://www.garfieldtech.com/presentations/sfsf2012-drupal8/#1
 

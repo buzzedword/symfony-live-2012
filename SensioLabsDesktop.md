@@ -1,4 +1,4 @@
-Speaker: Fabien Potencier
+Speaker: Fabien Potencier -- @fabpot https://twitter.com/fabpot
 
 Link: http://desktop.sensiolabs.org/
 

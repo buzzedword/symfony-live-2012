@@ -1,4 +1,4 @@
-Speaker: Hugo Hamon
+Speaker: Hugo Hamon -- @hhamon https://twitter.com/hhamon
 
 Slides: https://speakerdeck.com/u/hhamon/p/leveraging-the-serializer-component
 

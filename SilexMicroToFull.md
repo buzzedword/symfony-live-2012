@@ -1,4 +1,4 @@
-Speaker: Dustin Whittle
+Speaker: Dustin Whittle -- @dustinwhittle https://twitter.com/dustinwhittle
 
 Slides: https://speakerdeck.com/u/dustinwhittle/p/silex-from-micro-to-full-stack
 
