@@ -2,6 +2,8 @@ Speaker: Fabien Potencier -- @fabpot https://twitter.com/fabpot
 
 Announcement: https://groups.google.com/forum/?hl=en_US&fromgroups=#!topic/symfony-devs/oNaXdV5UGRU
 
+Link: http://symfony.com/doc/current/contributing/community/releases.html
+
 ### General
 
 - Over 1400 releases per month
